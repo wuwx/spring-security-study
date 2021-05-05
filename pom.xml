@@ -14,4 +14,11 @@
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
+    <modules>
+        <module>study-001-default</module>
+        <module>study-002-user-details-service-1</module>
+        <module>study-003-user-details-service-2</module>
+        <module>study-004-authentication-provider-1</module>
+        <module>study-005-session-data-redis</module>
+    </modules>
 </project>
