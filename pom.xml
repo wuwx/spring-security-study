@@ -21,5 +21,6 @@
         <module>study-004-authentication-provider-1</module>
         <module>study-005-session-data-redis</module>
         <module>study-006-oauth2-client</module>
+        <module>study-007-auth2-authorization-server</module>
     </modules>
 </project>

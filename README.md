@@ -9,3 +9,7 @@
 004 随便什么用户名和密码都可以登录
 
 005 使用 Redis 共享 HTTP Session
+
+006 Spring Security OAuth2 客户端
+
+007 Spring Security OAuth2 认证服务
